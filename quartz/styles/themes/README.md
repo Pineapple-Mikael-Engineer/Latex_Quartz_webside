@@ -1,13 +1,13 @@
-# Blue Topaz
+# AnuPpuccin
 
-- Theme: Blue Topaz
-- Author: <a href="https://github.com/whyt-byte" target="_blank" rel="noopener noreferrer">WhyI & Pkmer</a>
+- Theme: AnuPpuccin
+- Author: <a href="https://github.com/AnubisNekhet" target="_blank" rel="noopener noreferrer">Anubis</a>
 
 ## Preview
 
-[Open live preview (Quartz)](https://quartz-themes.github.io/blue-topaz/)
+[Open live preview (Quartz)](https://quartz-themes.github.io/anuppuccin/)
 
-[Open live preview (Publish)](https://publish.saberzero.one/blue-topaz)
+[Open live preview (Publish)](https://publish.saberzero.one/anuppuccin)
 
 ## Usage (Quartz)
 
@@ -15,7 +15,7 @@
 
 ```yaml
 env:
-  THEME_NAME: blue-topaz
+  THEME_NAME: anuppuccin
 ```
 
 ```yaml
@@ -28,7 +28,7 @@ env:
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
-./action.sh blue-topaz
+./action.sh anuppuccin
 ```
 
 ### Manual install
